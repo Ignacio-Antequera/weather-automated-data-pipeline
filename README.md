@@ -71,7 +71,7 @@ docker-compose --version
 ### 1. Clone the Repository
 ```bash
 cd ~/repos
-git clone <your-repo-url> weather-data-project
+git clone https://github.com/Ignacio-Antequera/weather-automated-data-pipeline.git weather-data-project
 cd weather-data-project
 ```
 
