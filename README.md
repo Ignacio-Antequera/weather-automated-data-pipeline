@@ -1,5 +1,7 @@
 # Weather Data ELT Pipeline
 
+![Project Thumbnail](Project_thumbnail.png)
+
 An automated ELT (Extract, Load, Transform) pipeline that ingests live weather data from an API and creates a near-realtime dashboard for data visualization and analysis.
 
 ## 📋 Project Overview
